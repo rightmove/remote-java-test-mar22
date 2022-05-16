@@ -1,4 +1,6 @@
-rootProject.name = 'remote-java-test'
+rootProject.name = 'remote-java-test-mar22'
 
 include 'web'
 include 'data'
+include 'client'
+
